@@ -5,10 +5,10 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.xietong</groupId>
-    <artifactId>sns-jdbc-jsp</artifactId>
+    <groupId>com.haibin</groupId>
+    <artifactId>jdbc-jsp-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sns-jdbc-jsp</name>
+    <name>jdbc-jsp-demo</name>
     <packaging>war</packaging>
 
 
